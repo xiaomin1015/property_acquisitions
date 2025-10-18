@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "phone": "+16693882588",
+    "address": "123 Maple St",
+    "status": "called"
+  },
+  {
+    "id": 2,
+    "name": "Mary Smith",
+    "phone": "+16690831234",
+    "address": "45 Oak Ave",
+    "status": "called"
+  },
+  {
+    "id": 3,
+    "name": "",
+    "address": "",
+    "phone": "+16693882599",
+    "status": "new"
+  }
+]
