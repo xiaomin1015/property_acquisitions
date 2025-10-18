@@ -52,7 +52,7 @@ This project demonstrates how to combine:
 
 ### 1. Clone and install
 ```bash
-git clone <your-repo-url>
+git clone git@github.com:xiaomin1015/property_acquisitions.git
 npm install
 node server/server.js
 ngrok http 3000
